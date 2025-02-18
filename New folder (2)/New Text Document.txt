@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 added new text
-=======
 added new text for first commit
 added new line of text
->>>>>>> 7938410f2b680592a468a2938dfe8d7e53fb676e
+
