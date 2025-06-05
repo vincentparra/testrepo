@@ -1,0 +1,12 @@
+name: 'Sample-Plugin'
+description: 'sample action for github action'
+inputs:
+  name:
+    description: 'your name'
+    required: true
+outputs:
+  message:
+    description: 'hello from plugin'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
