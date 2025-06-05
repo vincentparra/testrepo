@@ -25,7 +25,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.rocs.sample.plugin.SamplePluginApplication.MainClass</mainClass>
+                            <mainClass>com.rocs.sample.plugin.SamplePluginApplication.java</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
